@@ -4,7 +4,6 @@ import { getFirestore, serverTimestamp } from "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCes1QODpbjMc59yRrsgiZCyLz7UV4xPdU",
   authDomain: "instagram---clones.firebaseapp.com",
   projectId: "instagram---clones",
   storageBucket: "instagram---clones.appspot.com",
